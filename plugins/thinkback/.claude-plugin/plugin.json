@@ -1,0 +1,8 @@
+{
+  "name": "thinkback",
+  "description": "Generate a personalized Year in Review ASCII animation celebrating your year with Claude Code",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

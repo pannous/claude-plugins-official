@@ -140,6 +140,17 @@
       "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/plugins/plugin-dev"
     },
     {
+      "name": "thinkback",
+      "description": "Generate a personalized Year in Review ASCII animation celebrating your year with Claude Code. Features multiple vibes (cozy, awards show, morning news, RPG quest) and comprehensive animation helpers.",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/thinkback",
+      "category": "productivity",
+      "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/thinkback"
+    },
+    {
       "name": "greptile",
       "description": "AI-powered codebase search and understanding. Query your repositories using natural language to find relevant code, understand dependencies, and get contextual answers about your codebase architecture.",
       "category": "development",
